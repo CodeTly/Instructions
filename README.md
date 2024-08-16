@@ -10,3 +10,14 @@ We'll recieve this file inside a folder with your name and class.
 #attention!
 
 We wont take any file thats directly posted into our repo!!!
+
+#Code etiquette 
+
+1) Try understanding what you have
+written in code.
+Our ultimate goal is to make you one
+percent better every week.
+2) Refrain using AI, this is a challange for you!
+Not for the artificial brains
+3) Have proper documentation in the code. Help our evaluation team to understand the code better!
+4) Last but not least, enjoy the process, take your time and get it done your way!
