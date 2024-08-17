@@ -2,6 +2,7 @@
 
 How to add my solution to the github repo??
 
+zeroth step : Go to the folder named "Solutions" 
 first step is to click on the "fork" option on the top right corner. Name the repostory in this format - "yourname_class". Then hit create. The screen now goes back to the original repo. 
 second step is to click on the plus icon at top right corner, then click on the "upolad files" option
 third step is to select the files you want to upload. Now wait until it's uploaded. Congratulations, you submitted your solution. 
